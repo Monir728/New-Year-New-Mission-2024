@@ -1,0 +1,46 @@
+#{
+    width: 50%;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 100%;
+    height: auto;
+    position: absolute;
+}
+.container image{
+    width: 100%;
+    height: auto;
+    position: absolute;
+}
+.container .normal{
+    position: absolute;
+    color: rgb(230, 230, 238);
+    text-align: center;
+    left: 50%;
+    top: 50%;
+    font-size: 50px;
+    transform: translate(-50%, -50%);
+
+}
+
+.font{
+    position: absolute;
+    padding: 10px;
+    margin: 70pxV 80px 150px;
+    color: black;
+   
+}
+.siz{
+    
+    width: 50%;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.New{
+    
+    
+
+}
